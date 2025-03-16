@@ -1,6 +1,6 @@
-# Discussion:
+#Discussion:
 
-## Exercise 1: Build and Validate a P2PKH Script
+##Exercise 1: Build and Validate a P2PKH Script
 
 Goal: Understand basic Bitcoin Script by constructing and validating a Pay-to-Public-Key-Hash (P2PKH) transaction output.
 
